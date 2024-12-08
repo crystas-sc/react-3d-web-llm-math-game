@@ -1,5 +1,5 @@
 # React Math Game 3D
-It is an immersive math game designed to make learning math fun and interactive. Leveraging the power of React, Three Fiber, and Web LLM local model, Mathster offers an engaging experience for players of all ages.
+It is an immersive math game designed to make learning math fun and interactive. Leveraging the power of React, Three Fiber, and Web LLM local model, it offers an engaging experience for players of all ages.
 
 ##Features
 - Immersive 3D Environment: Explore a vibrant, interactive world that brings math to life.
